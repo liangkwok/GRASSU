@@ -1,0 +1,112 @@
+[1;40;32mSUCC, pushMessage_ios OK!!!!![0m
+[1;40;32mresult: Array
+(
+    [request_id] => 2565287631
+    [response_params] => Array
+        (
+            [success_amount] => 1
+            [msgids] => Array
+                (
+                )
+
+        )
+
+)
+[0m
+[1;40;32mSUCC, pushMessage_ios OK!!!!![0m
+[1;40;32mresult: Array
+(
+    [request_id] => 2565301741
+    [response_params] => Array
+        (
+            [success_amount] => 1
+            [msgids] => Array
+                (
+                )
+
+        )
+
+)
+[0m
+[1;40;32mSUCC, pushMessage_ios OK!!!!![0m
+[1;40;32mresult: Array
+(
+    [request_id] => 2566725832
+    [response_params] => Array
+        (
+            [success_amount] => 1
+            [msgids] => Array
+                (
+                )
+
+        )
+
+)
+[0m
+[1;40;31mWRONG, pushMessage_ios ERROR!!!!![0m
+[1;40;31mERROR NUMBER: 3[0m
+[1;40;31mERROR MESSAGE: lack param,detail info[userId should be specified in optional[] when pushType is PUSH_TO_USER,break point:/www/web/Application/Home/Server/Baidu-Push-SDK-Php-2.0.4-advanced/Channel.class.php:597].[0m
+[1;40;31mREQUEST ID: 0[0m
+[1;40;31mWRONG, pushMessage_ios ERROR!!!!![0m
+[1;40;31mERROR NUMBER: 3[0m
+[1;40;31mERROR MESSAGE: lack param,detail info[userId should be specified in optional[] when pushType is PUSH_TO_USER,break point:/www/web/Application/Home/Server/Baidu-Push-SDK-Php-2.0.4-advanced/Channel.class.php:597].[0m
+[1;40;31mREQUEST ID: 0[0m
+[1;40;31mWRONG, pushMessage_ios ERROR!!!!![0m
+[1;40;31mERROR NUMBER: 3[0m
+[1;40;31mERROR MESSAGE: lack param,detail info[userId should be specified in optional[] when pushType is PUSH_TO_USER,break point:/www/web/Application/Home/Server/Baidu-Push-SDK-Php-2.0.4-advanced/Channel.class.php:597].[0m
+[1;40;31mREQUEST ID: 0[0m
+[1;40;32mSUCC, pushMessage_ios OK!!!!![0m
+[1;40;32mresult: Array
+(
+    [request_id] => 1974930245
+    [response_params] => Array
+        (
+            [success_amount] => 1
+            [msgids] => Array
+                (
+                )
+
+        )
+
+)
+[0m
+[1;40;31mWRONG, pushMessage_ios ERROR!!!!![0m
+[1;40;31mERROR NUMBER: 3[0m
+[1;40;31mERROR MESSAGE: lack param,detail info[userId should be specified in optional[] when pushType is PUSH_TO_USER,break point:/www/web/Application/Home/Server/Baidu-Push-SDK-Php-2.0.4-advanced/Channel.class.php:597].[0m
+[1;40;31mREQUEST ID: 0[0m
+[1;40;31mWRONG, pushMessage_ios ERROR!!!!![0m
+[1;40;31mERROR NUMBER: 3[0m
+[1;40;31mERROR MESSAGE: lack param,detail info[userId should be specified in optional[] when pushType is PUSH_TO_USER,break point:/www/web/Application/Home/Server/Baidu-Push-SDK-Php-2.0.4-advanced/Channel.class.php:597].[0m
+[1;40;31mREQUEST ID: 0[0m
+[1;40;31mWRONG, pushMessage_ios ERROR!!!!![0m
+[1;40;31mERROR NUMBER: 3[0m
+[1;40;31mERROR MESSAGE: lack param,detail info[userId should be specified in optional[] when pushType is PUSH_TO_USER,break point:/www/web/Application/Home/Server/Baidu-Push-SDK-Php-2.0.4-advanced/Channel.class.php:597].[0m
+[1;40;31mREQUEST ID: 0[0m
+[1;40;31mWRONG, pushMessage_ios ERROR!!!!![0m
+[1;40;31mERROR NUMBER: 3[0m
+[1;40;31mERROR MESSAGE: lack param,detail info[userId should be specified in optional[] when pushType is PUSH_TO_USER,break point:/www/web/Application/Home/Server/Baidu-Push-SDK-Php-2.0.4-advanced/Channel.class.php:597].[0m
+[1;40;31mREQUEST ID: 0[0m
+[1;40;31mWRONG, pushMessage_ios ERROR!!!!![0m
+[1;40;31mERROR NUMBER: 3[0m
+[1;40;31mERROR MESSAGE: lack param,detail info[userId should be specified in optional[] when pushType is PUSH_TO_USER,break point:/www/web/Application/Home/Server/Baidu-Push-SDK-Php-2.0.4-advanced/Channel.class.php:597].[0m
+[1;40;31mREQUEST ID: 0[0m
+[1;40;31mWRONG, pushMessage_ios ERROR!!!!![0m
+[1;40;31mERROR NUMBER: 3[0m
+[1;40;31mERROR MESSAGE: lack param,detail info[userId should be specified in optional[] when pushType is PUSH_TO_USER,break point:/www/web/Application/Home/Server/Baidu-Push-SDK-Php-2.0.4-advanced/Channel.class.php:597].[0m
+[1;40;31mREQUEST ID: 0[0m
+[1;40;31mWRONG, pushMessage_ios ERROR!!!!![0m
+[1;40;31mERROR NUMBER: 3[0m
+[1;40;31mERROR MESSAGE: lack param,detail info[userId should be specified in optional[] when pushType is PUSH_TO_USER,break point:/www/web/Application/Home/Server/Baidu-Push-SDK-Php-2.0.4-advanced/Channel.class.php:597].[0m
+[1;40;31mREQUEST ID: 0[0m
+[1;40;31mWRONG, pushMessage_ios ERROR!!!!![0m
+[1;40;31mERROR NUMBER: 3[0m
+[1;40;31mERROR MESSAGE: lack param,detail info[userId should be specified in optional[] when pushType is PUSH_TO_USER,break point:/www/web/Application/Home/Server/Baidu-Push-SDK-Php-2.0.4-advanced/Channel.class.php:597].[0m
+[1;40;31mREQUEST ID: 0[0m
+[1;40;31mWRONG, pushMessage_ios ERROR!!!!![0m
+[1;40;31mERROR NUMBER: 3[0m
+[1;40;31mERROR MESSAGE: lack param,detail info[userId should be specified in optional[] when pushType is PUSH_TO_USER,break point:/www/web/Application/Home/Server/Baidu-Push-SDK-Php-2.0.4-advanced/Channel.class.php:597].[0m
+[1;40;31mREQUEST ID: 0[0m
+[1;40;31mWRONG, pushMessage_ios ERROR!!!!![0m
+[1;40;31mERROR NUMBER: 3[0m
+[1;40;31mERROR MESSAGE: lack param,detail info[userId should be specified in optional[] when pushType is PUSH_TO_USER,break point:/www/web/Application/Home/Server/Baidu-Push-SDK-Php-2.0.4-advanced/Channel.class.php:597].[0m
+[1;40;31mREQUEST ID: 0[0m

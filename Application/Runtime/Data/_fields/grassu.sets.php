@@ -1,0 +1,1 @@
+a:9:{i:0;s:3:"Uid";i:1;s:4:"Sets";i:2;s:5:"UDate";i:3;s:6:"Field1";i:4;s:6:"Field2";i:5;s:6:"Field3";i:6;s:6:"Field4";s:3:"_pk";s:3:"Uid";s:5:"_type";a:7:{s:3:"Uid";s:7:"int(11)";s:4:"Sets";s:13:"varchar(1024)";s:5:"UDate";s:9:"timestamp";s:6:"Field1";s:11:"varchar(64)";s:6:"Field2";s:11:"varchar(64)";s:6:"Field3";s:7:"int(11)";s:6:"Field4";s:7:"int(11)";}}

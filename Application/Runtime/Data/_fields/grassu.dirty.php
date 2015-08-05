@@ -1,0 +1,1 @@
+a:9:{i:0;s:2:"ID";i:1;s:5:"Words";i:2;s:6:"Status";i:3;s:6:"Field1";i:4;s:6:"Field2";i:5;s:6:"Field3";i:6;s:6:"Field4";s:3:"_pk";s:2:"ID";s:5:"_type";a:7:{s:2:"ID";s:7:"int(11)";s:5:"Words";s:11:"varchar(32)";s:6:"Status";s:6:"int(2)";s:6:"Field1";s:11:"varchar(64)";s:6:"Field2";s:11:"varchar(64)";s:6:"Field3";s:7:"int(11)";s:6:"Field4";s:7:"int(11)";}}
